@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="100%" height="100%" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;">
+  <defs>
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.15"/>
+    </filter>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#065f46" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+
+  <!-- Browser Window Wrapper -->
+  <g transform="translate(30, 25)">
+    <rect width="1140" height="710" rx="16" fill="#ffffff" filter="url(#card-shadow)" />
+    
+    <!-- Browser Top Bar -->
+    <rect width="1140" height="44" rx="16" fill="#f8fafc" />
+    <rect y="28" width="1140" height="16" fill="#f8fafc" />
+    <line x1="0" y1="44" x2="1140" y2="44" stroke="#e2e8f0" stroke-width="1" />
+    
+    <!-- Window Controls -->
+    <circle cx="24" cy="22" r="6" fill="#ef4444" />
+    <circle cx="44" cy="22" r="6" fill="#f59e0b" />
+    <circle cx="64" cy="22" r="6" fill="#10b981" />
+
+    <!-- URL Bar -->
+    <rect x="110" y="10" width="720" height="24" rx="6" fill="#ffffff" stroke="#cbd5e1" />
+    <text x="125" y="26" font-size="12" fill="#64748b">https://champ.hackers.com/english-grammar/final</text>
+
+    <!-- Stage Tag in Browser Bar -->
+    <rect x="860" y="8" width="260" height="28" rx="8" fill="#dcfce7" />
+    <text x="990" y="26" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">3단계: Final (최종 완성 런칭)</text>
+
+    <!-- Page Content Container -->
+    <g transform="translate(0, 44)">
+      <!-- Top Site Navigation Header -->
+      <rect width="1140" height="52" fill="#ffffff" />
+      <line x1="0" y1="52" x2="1140" y2="52" stroke="#e2e8f0" stroke-width="1" />
+      
+      <!-- Logo -->
+      <text x="40" y="33" font-size="19" font-weight="900" fill="#dc2626" letter-spacing="-0.5">HACKERS<tspan fill="#1e293b" font-size="16" font-weight="700"> TALK</tspan></text>
+      
+      <!-- Nav Items -->
+      <text x="240" y="32" font-size="13" font-weight="600" fill="#475569">기초영어</text>
+      <text x="320" y="32" font-size="13" font-weight="600" fill="#475569">영어회화</text>
+      <text x="400" y="32" font-size="13" font-weight="600" fill="#475569">영문법</text>
+      <text x="470" y="32" font-size="13" font-weight="600" fill="#475569">비즈니스</text>
+      <text x="550" y="32" font-size="13" font-weight="800" fill="#dc2626">이벤트/환급</text>
+
+      <rect x="1010" y="12" width="90" height="28" rx="6" fill="#1e293b" />
+      <text x="1055" y="30" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">로그인</text>
+
+      <!-- Main Visual Hero Banner -->
+      <rect y="52" width="1140" height="220" fill="url(#bannerGrad)" />
+      
+      <!-- Subtle Pattern Grid in Hero for Plan, Glow for Final -->
+      
+      
+      <!-- Stage Notice Pill -->
+      <g transform="translate(50, 78)">
+        <rect width="170" height="28" rx="14" fill="#ffffff" fill-opacity="0.2" />
+        <text x="85" y="18" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle">2024 공식 런칭 완료</text>
+      </g>
+
+      <!-- Main Title -->
+      <text x="50" y="145" font-size="32" font-weight="900" fill="#ffffff" letter-spacing="-1">2023 말문이 트이는 영문법</text>
+      <text x="50" y="180" font-size="16" font-weight="500" fill="#ffffff" fill-opacity="0.9">암기식 문법을 탈피하고 말하기로 직결되는 회화형 영문법 패키지</text>
+
+      <!-- Hero Callout Box (Right Side) -->
+      <g transform="translate(740, 75)">
+        <rect width="350" height="170" rx="12" fill="#ffffff" filter="url(#card-shadow)" stroke="#e2e8f0" stroke-width="1" />
+        <text x="20" y="32" font-size="14" font-weight="800" fill="#1e293b">신규 런칭 적용 성과</text>
+        <line x1="20" y1="44" x2="330" y2="44" stroke="#e2e8f0" stroke-width="1" />
+        <text x="20" y="72" font-size="12" font-weight="600" fill="#334155">• 밝고 경쾌한 옐로우/코랄 일러스트 런칭 페이지</text>
+        <text x="20" y="98" font-size="12" font-weight="600" fill="#334155">• 수강생 96% "어려웠던 영문법이 처음으로 말로 나왔다" 응답</text>
+        <text x="20" y="124" font-size="12" font-weight="600" fill="#334155">• 무료 체험판 도입 후 본 패키지 구매 전환율 42.5% 달성</text>
+        <rect x="20" y="136" width="310" height="24" rx="4" fill="#dcfce7" />
+        <text x="175" y="152" font-size="11" font-weight="800" fill="#166534" text-anchor="middle">최종 성과: 기초 영문법 패키지 완강률 3배 증가</text>
+      </g>
+
+      <!-- Lower Content Area (3 Columns of Section Cards) -->
+      <g transform="translate(50, 290)">
+        <!-- Card 1 -->
+        <g transform="translate(0, 0)">
+          <rect width="325" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="325" height="44" rx="12" fill="#f0fdf4" />
+          <rect y="28" width="325" height="16" fill="#f0fdf4" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#166534">말문이 빵 터지는 공식</text>
+          
+          <!-- Mock Graphic Box in Card 1 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#ecfdf5" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">🗣️ [10분 완성] 말로 하는 영문법</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">단어만 바꿔 끼우면 문장 완성</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">관계대명사 대신 쉬운 연결법</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">원어민 리얼 발음 트레이닝</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#10b981" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">무료 샘플 강의</text>
+        </g>
+
+        <!-- Card 2 -->
+        <g transform="translate(355, 0)">
+          <rect width="325" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="325" height="44" rx="12" fill="#f0fdf4" />
+          <rect y="28" width="325" height="16" fill="#f0fdf4" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#166534">친근한 그림으로 연상</text>
+          
+          <!-- Mock Graphic Box in Card 2 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">🎨 재미있는 그림 연상 학습법</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">지루한 암기는 이제 그만!</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">만화 보듯 쏙쏙 들어오는 설명</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">학습 스트레스 0% 보장</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#2563eb" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">교재 미리보기</text>
+        </g>
+
+        <!-- Card 3 -->
+        <g transform="translate(710, 0)">
+          <rect width="330" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="330" height="44" rx="12" fill="#f0fdf4" />
+          <rect y="28" width="330" height="16" fill="#f0fdf4" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#166534">3일 무료 체험 신청</text>
+          
+          <!-- Mock Graphic Box in Card 3 -->
+          <rect x="16" y="58" width="298" height="120" rx="8" fill="#fef2f2" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="165" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">🎁 3일간 핵심 강좌 100% 무료</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">결제 정보 없이 1초 간편 신청</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">체험 후 구매 시 추가 30% 쿠폰</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">입문자 수강생 만족도 99.4%</text>
+
+          <rect x="16" y="270" width="298" height="36" rx="8" fill="#dc2626" />
+          <text x="165" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">3일 무료체험 시작하기</text>
+        </g>
+      </g>
+
+      <!-- Bottom Floating Banner -->
+      <g transform="translate(50, 625)">
+        <rect width="1040" height="32" rx="6" fill="#fef3c7" />
+        <text x="520" y="21" font-size="11" font-weight="700" fill="#92400e" text-anchor="middle">최종 런칭: 포기자 없는 해커스톡 대표 영문법 강의로 자리매김</text>
+      </g>
+    </g>
+  </g>
+</svg>

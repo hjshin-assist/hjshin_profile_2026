@@ -1,0 +1,304 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="100%" height="100%" style="background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.08"/>
+    </filter>
+    <filter id="badge-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- Corner Purple Decorative Bubbles -->
+  <path d="M 0 500 C 150 480 200 650 0 650 Z" fill="#311042"/>
+  <path d="M 1200 500 C 1050 480 1000 650 1200 650 Z" fill="#311042"/>
+
+  <!-- Top Title Banner -->
+  <g transform="translate(380, 24)">
+    <rect width="440" height="54" rx="16" fill="#0f3764" filter="url(#shadow)"/>
+    <text x="220" y="35" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">2026년 H기업 II 좌석배치도</text>
+  </g>
+
+  <!-- SCREEN Button -->
+  <g transform="translate(490, 92)">
+    <rect width="220" height="36" rx="10" fill="#18181b" filter="url(#shadow)"/>
+    <!-- Screen Icon -->
+    <rect x="75" y="12" width="16" height="11" rx="1.5" fill="none" stroke="#ffffff" stroke-width="2"/>
+    <line x1="83" y1="23" x2="83" y2="26" stroke="#ffffff" stroke-width="2"/>
+    <line x1="78" y1="26" x2="88" y2="26" stroke="#ffffff" stroke-width="2"/>
+    <text x="122" y="24" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">SCREEN</text>
+  </g>
+
+  <!-- SEATING GRID ARRANGEMENT -->
+
+  <!-- Row 1 Left (Team 5) -->
+  <g transform="translate(170, 165)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*태</text>
+    <circle cx="0" cy="20" r="12" fill="#bfdbfe" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#1e40af" text-anchor="middle">5</text>
+  </g>
+  <g transform="translate(235, 165)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*혜</text>
+    <circle cx="0" cy="20" r="12" fill="#bfdbfe" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#1e40af" text-anchor="middle">5</text>
+  </g>
+
+  <!-- Row 2 Left (Team 5) -->
+  <g transform="translate(140, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">박*형</text>
+    <circle cx="0" cy="20" r="12" fill="#bfdbfe" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#1e40af" text-anchor="middle">5</text>
+  </g>
+  <g transform="translate(205, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">윤*범</text>
+    <circle cx="0" cy="20" r="12" fill="#bfdbfe" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#1e40af" text-anchor="middle">5</text>
+  </g>
+  <g transform="translate(270, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">이*비</text>
+    <circle cx="0" cy="20" r="12" fill="#bfdbfe" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#1e40af" text-anchor="middle">5</text>
+  </g>
+
+  <!-- Row 2 Center (Team 1, 2) -->
+  <g transform="translate(460, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">권*현</text>
+    <circle cx="0" cy="20" r="12" fill="#fca5a5" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#991b1b" text-anchor="middle">1</text>
+  </g>
+  <g transform="translate(525, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*준</text>
+    <circle cx="0" cy="20" r="12" fill="#fca5a5" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#991b1b" text-anchor="middle">1</text>
+  </g>
+  <g transform="translate(595, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">권*현</text>
+    <circle cx="0" cy="20" r="12" fill="#fed7aa" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#c2410c" text-anchor="middle">2</text>
+  </g>
+  <g transform="translate(660, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">권*향</text>
+    <circle cx="0" cy="20" r="12" fill="#fed7aa" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#c2410c" text-anchor="middle">2</text>
+  </g>
+  <g transform="translate(725, 245)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*수</text>
+    <circle cx="0" cy="20" r="12" fill="#fed7aa" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#c2410c" text-anchor="middle">2</text>
+  </g>
+
+  <!-- Row 3 Left (Team 6) -->
+  <g transform="translate(140, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">신*원</text>
+    <circle cx="0" cy="20" r="12" fill="#fbcfe8" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#9d174d" text-anchor="middle">6</text>
+  </g>
+  <g transform="translate(205, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">오*영</text>
+    <circle cx="0" cy="20" r="12" fill="#fbcfe8" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#9d174d" text-anchor="middle">6</text>
+  </g>
+  <g transform="translate(270, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">임*진</text>
+    <circle cx="0" cy="20" r="12" fill="#fbcfe8" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#9d174d" text-anchor="middle">6</text>
+  </g>
+
+  <!-- Row 3 Center (Team 1, 2) -->
+  <g transform="translate(400, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*용</text>
+    <circle cx="0" cy="20" r="12" fill="#fca5a5" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#991b1b" text-anchor="middle">1</text>
+  </g>
+  <g transform="translate(460, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">설*수</text>
+    <circle cx="0" cy="20" r="12" fill="#fca5a5" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#991b1b" text-anchor="middle">1</text>
+  </g>
+  <g transform="translate(520, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">임*섭</text>
+    <circle cx="0" cy="20" r="12" fill="#fca5a5" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#991b1b" text-anchor="middle">1</text>
+  </g>
+  <g transform="translate(580, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">최*혁</text>
+    <circle cx="0" cy="20" r="12" fill="#fca5a5" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#991b1b" text-anchor="middle">1</text>
+  </g>
+  <g transform="translate(650, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*형</text>
+    <circle cx="0" cy="20" r="12" fill="#fed7aa" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#c2410c" text-anchor="middle">2</text>
+  </g>
+  <g transform="translate(710, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">양*홍</text>
+    <circle cx="0" cy="20" r="12" fill="#fed7aa" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#c2410c" text-anchor="middle">2</text>
+  </g>
+  <g transform="translate(770, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">이*결</text>
+    <circle cx="0" cy="20" r="12" fill="#fed7aa" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#c2410c" text-anchor="middle">2</text>
+  </g>
+
+  <!-- Row 3 Right (Team 8) -->
+  <g transform="translate(930, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">강*윤</text>
+    <circle cx="0" cy="20" r="12" fill="#a5f3fc" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#155e75" text-anchor="middle">8</text>
+  </g>
+  <g transform="translate(995, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*우</text>
+    <circle cx="0" cy="20" r="12" fill="#a5f3fc" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#155e75" text-anchor="middle">8</text>
+  </g>
+  <g transform="translate(1060, 325)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">박*원</text>
+    <circle cx="0" cy="20" r="12" fill="#a5f3fc" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#155e75" text-anchor="middle">8</text>
+  </g>
+
+  <!-- Row 4 Left (Team 6) -->
+  <g transform="translate(155, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">장*우</text>
+    <circle cx="0" cy="20" r="12" fill="#fbcfe8" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#9d174d" text-anchor="middle">6</text>
+  </g>
+  <g transform="translate(220, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">홍*환</text>
+    <circle cx="0" cy="20" r="12" fill="#fbcfe8" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#9d174d" text-anchor="middle">6</text>
+  </g>
+
+  <!-- Row 4 Center (Team 3, 4, 7) -->
+  <g transform="translate(340, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">권*근</text>
+    <circle cx="0" cy="20" r="12" fill="#fef08a" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#854d0e" text-anchor="middle">3</text>
+  </g>
+  <g transform="translate(400, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*훈</text>
+    <circle cx="0" cy="20" r="12" fill="#fef08a" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#854d0e" text-anchor="middle">3</text>
+  </g>
+  <g transform="translate(460, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*배</text>
+    <circle cx="0" cy="20" r="12" fill="#fef08a" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#854d0e" text-anchor="middle">3</text>
+  </g>
+
+  <g transform="translate(530, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">박*후</text>
+    <circle cx="0" cy="20" r="12" fill="#bbf7d0" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">4</text>
+  </g>
+  <g transform="translate(590, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">서*운</text>
+    <circle cx="0" cy="20" r="12" fill="#bbf7d0" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">4</text>
+  </g>
+  <g transform="translate(650, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">오*재</text>
+    <circle cx="0" cy="20" r="12" fill="#bbf7d0" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">4</text>
+  </g>
+
+  <g transform="translate(720, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*연</text>
+    <circle cx="0" cy="20" r="12" fill="#e5e7eb" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#374151" text-anchor="middle">7</text>
+  </g>
+  <g transform="translate(780, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*순</text>
+    <circle cx="0" cy="20" r="12" fill="#e5e7eb" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#374151" text-anchor="middle">7</text>
+  </g>
+
+  <!-- Row 4 Right (Team 8) -->
+  <g transform="translate(960, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">정*환</text>
+    <circle cx="0" cy="20" r="12" fill="#a5f3fc" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#155e75" text-anchor="middle">8</text>
+  </g>
+  <g transform="translate(1025, 405)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">최*완</text>
+    <circle cx="0" cy="20" r="12" fill="#a5f3fc" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#155e75" text-anchor="middle">8</text>
+  </g>
+
+  <!-- Row 5 Center (Team 3, 4, 7) -->
+  <g transform="translate(310, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">서*호</text>
+    <circle cx="0" cy="20" r="12" fill="#fef08a" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#854d0e" text-anchor="middle">3</text>
+  </g>
+  <g transform="translate(370, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">이*영</text>
+    <circle cx="0" cy="20" r="12" fill="#fef08a" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#854d0e" text-anchor="middle">3</text>
+  </g>
+  <g transform="translate(430, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">이*엽</text>
+    <circle cx="0" cy="20" r="12" fill="#fef08a" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#854d0e" text-anchor="middle">3</text>
+  </g>
+
+  <g transform="translate(500, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">유*율</text>
+    <circle cx="0" cy="20" r="12" fill="#bbf7d0" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">4</text>
+  </g>
+  <g transform="translate(560, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">이*수</text>
+    <circle cx="0" cy="20" r="12" fill="#bbf7d0" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">4</text>
+  </g>
+  <g transform="translate(620, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">임*수</text>
+    <circle cx="0" cy="20" r="12" fill="#bbf7d0" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">4</text>
+  </g>
+
+  <g transform="translate(690, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">김*훈</text>
+    <circle cx="0" cy="20" r="12" fill="#e5e7eb" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#374151" text-anchor="middle">7</text>
+  </g>
+  <g transform="translate(750, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">배*석</text>
+    <circle cx="0" cy="20" r="12" fill="#e5e7eb" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#374151" text-anchor="middle">7</text>
+  </g>
+  <g transform="translate(810, 485)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">송*진</text>
+    <circle cx="0" cy="20" r="12" fill="#e5e7eb" filter="url(#badge-shadow)"/>
+    <text x="0" y="24" font-size="12" font-weight="800" fill="#374151" text-anchor="middle">7</text>
+  </g>
+
+  <!-- Bottom Floating Control Card -->
+  <g transform="translate(360, 565)">
+    <rect width="480" height="52" rx="16" fill="#ffffff" filter="drop-shadow(0 6px 16px rgba(0,0,0,0.12))"/>
+    
+    <!-- 1차수 Active Button -->
+    <rect x="8" y="8" width="72" height="36" rx="10" fill="#1d4ed8"/>
+    <text x="44" y="31" font-size="13" font-weight="800" fill="#ffffff" text-anchor="middle">1차수</text>
+
+    <!-- 2차수 -->
+    <text x="120" y="31" font-size="13" font-weight="600" fill="#64748b" text-anchor="middle">2차수</text>
+
+    <!-- 3차수 -->
+    <text x="180" y="31" font-size="13" font-weight="600" fill="#64748b" text-anchor="middle">3차수</text>
+
+    <line x1="230" y1="14" x2="230" y2="38" stroke="#cbd5e1" stroke-width="1"/>
+
+    <!-- 뒤에서 보기 -->
+    <text x="285" y="31" font-size="13" font-weight="600" fill="#475569" text-anchor="middle">뒤에서 보기</text>
+
+    <!-- 앞에서 보기 -->
+    <text x="370" y="31" font-size="13" font-weight="600" fill="#475569" text-anchor="middle">앞에서 보기</text>
+
+    <line x1="425" y1="14" x2="425" y2="38" stroke="#cbd5e1" stroke-width="1"/>
+
+    <!-- Refresh icon -->
+    <path d="M 452 22 A 6 6 0 1 1 446 28 M 452 20 L 452 24 L 448 22" stroke="#475569" stroke-width="2" fill="none"/>
+  </g>
+</svg>

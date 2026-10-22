@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="100%" height="100%" style="background-color: #f1f5f9; font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;">
+  <defs>
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.15"/>
+    </filter>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#312e81" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+  </defs>
+
+  <!-- Browser Window Wrapper -->
+  <g transform="translate(30, 25)">
+    <rect width="1140" height="710" rx="16" fill="#ffffff" filter="url(#card-shadow)" />
+    
+    <!-- Browser Top Bar -->
+    <rect width="1140" height="44" rx="16" fill="#f8fafc" />
+    <rect y="28" width="1140" height="16" fill="#f8fafc" />
+    <line x1="0" y1="44" x2="1140" y2="44" stroke="#e2e8f0" stroke-width="1" />
+    
+    <!-- Window Controls -->
+    <circle cx="24" cy="22" r="6" fill="#ef4444" />
+    <circle cx="44" cy="22" r="6" fill="#f59e0b" />
+    <circle cx="64" cy="22" r="6" fill="#10b981" />
+
+    <!-- URL Bar -->
+    <rect x="110" y="10" width="720" height="24" rx="6" fill="#ffffff" stroke="#cbd5e1" />
+    <text x="125" y="26" font-size="12" fill="#64748b">https://champ.hackers.com/business-english/plan</text>
+
+    <!-- Stage Tag in Browser Bar -->
+    <rect x="860" y="8" width="260" height="28" rx="8" fill="#dbeafe" />
+    <text x="990" y="26" font-size="12" font-weight="800" fill="#1e40af" text-anchor="middle">2단계: Plan (기획안 와이어프레임)</text>
+
+    <!-- Page Content Container -->
+    <g transform="translate(0, 44)">
+      <!-- Top Site Navigation Header -->
+      <rect width="1140" height="52" fill="#ffffff" />
+      <line x1="0" y1="52" x2="1140" y2="52" stroke="#e2e8f0" stroke-width="1" />
+      
+      <!-- Logo -->
+      <text x="40" y="33" font-size="19" font-weight="900" fill="#dc2626" letter-spacing="-0.5">HACKERS<tspan fill="#1e293b" font-size="16" font-weight="700"> TALK</tspan></text>
+      
+      <!-- Nav Items -->
+      <text x="240" y="32" font-size="13" font-weight="600" fill="#475569">기초영어</text>
+      <text x="320" y="32" font-size="13" font-weight="600" fill="#475569">영어회화</text>
+      <text x="400" y="32" font-size="13" font-weight="600" fill="#475569">영문법</text>
+      <text x="470" y="32" font-size="13" font-weight="600" fill="#475569">비즈니스</text>
+      <text x="550" y="32" font-size="13" font-weight="800" fill="#dc2626">이벤트/환급</text>
+
+      <rect x="1010" y="12" width="90" height="28" rx="6" fill="#1e293b" />
+      <text x="1055" y="30" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">로그인</text>
+
+      <!-- Main Visual Hero Banner -->
+      <rect y="52" width="1140" height="220" fill="url(#bannerGrad)" />
+      
+      <!-- Subtle Pattern Grid in Hero for Plan, Glow for Final -->
+      <line x1="0" y1="100" x2="1140" y2="100" stroke="#ffffff" stroke-opacity="0.15" stroke-dasharray="6,6"/><line x1="0" y1="180" x2="1140" y2="180" stroke="#ffffff" stroke-opacity="0.15" stroke-dasharray="6,6"/>
+      
+      <!-- Stage Notice Pill -->
+      <g transform="translate(50, 78)">
+        <rect width="170" height="28" rx="14" fill="#ffffff" fill-opacity="0.2" />
+        <text x="85" y="18" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle">신규 기획 와이어프레임</text>
+      </g>
+
+      <!-- Main Title -->
+      <text x="50" y="145" font-size="32" font-weight="900" fill="#ffffff" letter-spacing="-1">2023 만능패턴 비즈니스영어</text>
+      <text x="50" y="180" font-size="16" font-weight="500" fill="#ffffff" fill-opacity="0.9">직장인 실전 이메일, 회의, 프레젠테이션 핵심 패턴 패키지</text>
+
+      <!-- Hero Callout Box (Right Side) -->
+      <g transform="translate(740, 75)">
+        <rect width="350" height="170" rx="12" fill="#ffffff" filter="url(#card-shadow)" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4,4"/>
+        <text x="20" y="32" font-size="14" font-weight="800" fill="#1e293b">기획안 핵심 설계안</text>
+        <line x1="20" y1="44" x2="330" y2="44" stroke="#e2e8f0" stroke-width="1" />
+        <text x="20" y="72" font-size="12" font-weight="600" fill="#334155">• 업무 3대 상황(이메일/미팅/PT) 100개 핵심 패턴 구조화</text>
+        <text x="20" y="98" font-size="12" font-weight="600" fill="#334155">• 실무 영문 이메일/보고서 템플릿 50종 PDF 무료 증정 패키징</text>
+        <text x="20" y="124" font-size="12" font-weight="600" fill="#334155">• 퇴근 후 15분 스마트폰 실전 훈련 UI 와이어프레임 설계</text>
+        <rect x="20" y="136" width="310" height="24" rx="4" fill="#dbeafe" />
+        <text x="175" y="152" font-size="11" font-weight="800" fill="#1e40af" text-anchor="middle">기획 핵심: 실무 즉시 적용성 & 프로페셔널 브랜딩</text>
+      </g>
+
+      <!-- Lower Content Area (3 Columns of Section Cards) -->
+      <g transform="translate(50, 290)">
+        <!-- Card 1 -->
+        <g transform="translate(0, 0)">
+          <rect width="325" height="320" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4,4" fill="#f8fafc" stroke="#94a3b8" />
+          <rect width="325" height="44" rx="12" fill="#eff6ff" />
+          <rect y="28" width="325" height="16" fill="#eff6ff" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#1e40af">[Plan] 실무 3대 상황 모듈</text>
+          
+          <!-- Mock Graphic Box in Card 1 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="3,3" />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">[와이어프레임: 이메일|회의|PT 탭]</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">바이어 미팅 필수 매너 20선</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">영문 결재/요청 이메일 만능 패턴</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">해외 컨퍼런스 Q&A 대응법</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#3b82f6" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">커리큘럼 설계 완료</text>
+        </g>
+
+        <!-- Card 2 -->
+        <g transform="translate(355, 0)">
+          <rect width="325" height="320" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4,4" fill="#f8fafc" stroke="#94a3b8" />
+          <rect width="325" height="44" rx="12" fill="#eff6ff" />
+          <rect y="28" width="325" height="16" fill="#eff6ff" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#1e40af">[Plan] 비즈니스 자료집 PDF</text>
+          
+          <!-- Mock Graphic Box in Card 2 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="3,3" />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">[와이어프레임: PDF 템플릿 프리뷰]</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">복사해 바로 쓰는 영문 양식 50선</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">스마트폰 퀵 레퍼런스 가이드</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">PDF 파일 영구 소장권 제공</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#2563eb" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">자료 패키징 확정</text>
+        </g>
+
+        <!-- Card 3 -->
+        <g transform="translate(710, 0)">
+          <rect width="330" height="320" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4,4" fill="#f8fafc" stroke="#94a3b8" />
+          <rect width="330" height="44" rx="12" fill="#eff6ff" />
+          <rect y="28" width="330" height="16" fill="#eff6ff" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#1e40af">[Plan] 기업 교육비 영수증</text>
+          
+          <!-- Mock Graphic Box in Card 3 -->
+          <rect x="16" y="58" width="298" height="120" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="3,3" />
+          <text x="165" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">[와이어프레임: 자기계발 지원 안내]</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">회사 교육비 지원 수료증 발급</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">출석률 80% 이상 수료증 즉시 발급</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">법인 카드 간편 결제 지원</text>
+
+          <rect x="16" y="270" width="298" height="36" rx="8" fill="#4f46e5" />
+          <text x="165" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">기획안 최종 승인</text>
+        </g>
+      </g>
+
+      <!-- Bottom Floating Banner -->
+      <g transform="translate(50, 625)">
+        <rect width="1040" height="32" rx="6" fill="#e0e7ff" />
+        <text x="520" y="21" font-size="11" font-weight="700" fill="#4338ca" text-anchor="middle">기획 성과: 직장인 수강생 맞춤형 혜택 구조 완성</text>
+      </g>
+    </g>
+  </g>
+</svg>

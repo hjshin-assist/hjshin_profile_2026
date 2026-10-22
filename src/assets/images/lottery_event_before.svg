@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="100%" height="100%" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;">
+  <defs>
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.15"/>
+    </filter>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7f1d1d" />
+      <stop offset="100%" stop-color="#b91c1c" />
+    </linearGradient>
+  </defs>
+
+  <!-- Browser Window Wrapper -->
+  <g transform="translate(30, 25)">
+    <rect width="1140" height="710" rx="16" fill="#ffffff" filter="url(#card-shadow)" />
+    
+    <!-- Browser Top Bar -->
+    <rect width="1140" height="44" rx="16" fill="#f8fafc" />
+    <rect y="28" width="1140" height="16" fill="#f8fafc" />
+    <line x1="0" y1="44" x2="1140" y2="44" stroke="#e2e8f0" stroke-width="1" />
+    
+    <!-- Window Controls -->
+    <circle cx="24" cy="22" r="6" fill="#ef4444" />
+    <circle cx="44" cy="22" r="6" fill="#f59e0b" />
+    <circle cx="64" cy="22" r="6" fill="#10b981" />
+
+    <!-- URL Bar -->
+    <rect x="110" y="10" width="720" height="24" rx="6" fill="#ffffff" stroke="#cbd5e1" />
+    <text x="125" y="26" font-size="12" fill="#64748b">https://champ.hackers.com/lottery-event/before</text>
+
+    <!-- Stage Tag in Browser Bar -->
+    <rect x="860" y="8" width="260" height="28" rx="8" fill="#fee2e2" />
+    <text x="990" y="26" font-size="12" font-weight="800" fill="#991b1b" text-anchor="middle">1단계: Before (기존 페이지 분석)</text>
+
+    <!-- Page Content Container -->
+    <g transform="translate(0, 44)">
+      <!-- Top Site Navigation Header -->
+      <rect width="1140" height="52" fill="#ffffff" />
+      <line x1="0" y1="52" x2="1140" y2="52" stroke="#e2e8f0" stroke-width="1" />
+      
+      <!-- Logo -->
+      <text x="40" y="33" font-size="19" font-weight="900" fill="#dc2626" letter-spacing="-0.5">HACKERS<tspan fill="#1e293b" font-size="16" font-weight="700"> TALK</tspan></text>
+      
+      <!-- Nav Items -->
+      <text x="240" y="32" font-size="13" font-weight="600" fill="#475569">기초영어</text>
+      <text x="320" y="32" font-size="13" font-weight="600" fill="#475569">영어회화</text>
+      <text x="400" y="32" font-size="13" font-weight="600" fill="#475569">영문법</text>
+      <text x="470" y="32" font-size="13" font-weight="600" fill="#475569">비즈니스</text>
+      <text x="550" y="32" font-size="13" font-weight="800" fill="#dc2626">이벤트/환급</text>
+
+      <rect x="1010" y="12" width="90" height="28" rx="6" fill="#1e293b" />
+      <text x="1055" y="30" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">로그인</text>
+
+      <!-- Main Visual Hero Banner -->
+      <rect y="52" width="1140" height="220" fill="url(#bannerGrad)" />
+      
+      <!-- Subtle Pattern Grid in Hero for Plan, Glow for Final -->
+      
+      
+      <!-- Stage Notice Pill -->
+      <g transform="translate(50, 78)">
+        <rect width="170" height="28" rx="14" fill="#ffffff" fill-opacity="0.2" />
+        <text x="85" y="18" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle">기존 운영 버전</text>
+      </g>
+
+      <!-- Main Title -->
+      <text x="50" y="145" font-size="32" font-weight="900" fill="#ffffff" letter-spacing="-1">2023 꽝없는 복권 이벤트</text>
+      <text x="50" y="180" font-size="16" font-weight="500" fill="#ffffff" fill-opacity="0.9">게이미피케이션 기반 100% 당첨 인터랙티브 프로모션</text>
+
+      <!-- Hero Callout Box (Right Side) -->
+      <g transform="translate(740, 75)">
+        <rect width="350" height="170" rx="12" fill="#ffffff" filter="url(#card-shadow)" stroke="#e2e8f0" stroke-width="1" />
+        <text x="20" y="32" font-size="14" font-weight="800" fill="#1e293b">기존 구조 분석 이슈</text>
+        <line x1="20" y1="44" x2="330" y2="44" stroke="#e2e8f0" stroke-width="1" />
+        <text x="20" y="72" font-size="12" font-weight="600" fill="#334155">• 단순 텍스트 쿠폰 다운로드 페이지로 유저 흥미 유발 실패</text>
+        <text x="20" y="98" font-size="12" font-weight="600" fill="#334155">• 참여율이 정체되고 일일 재방문율이 5% 미만으로 저조</text>
+        <text x="20" y="124" font-size="12" font-weight="600" fill="#334155">• 친구 추천 및 공유 기능이 없어 자연 바이럴 발생 불가</text>
+        <rect x="20" y="136" width="310" height="24" rx="4" fill="#fee2e2" />
+        <text x="175" y="152" font-size="11" font-weight="800" fill="#991b1b" text-anchor="middle">개선 과제: 복권 긁기 게이미피케이션 & 일일 방문 루프</text>
+      </g>
+
+      <!-- Lower Content Area (3 Columns of Section Cards) -->
+      <g transform="translate(50, 290)">
+        <!-- Card 1 -->
+        <g transform="translate(0, 0)">
+          <rect width="325" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="325" height="44" rx="12" fill="#fef2f2" />
+          <rect y="28" width="325" height="16" fill="#fef2f2" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#991b1b">기존 쿠폰 지급 방식</text>
+          
+          <!-- Mock Graphic Box in Card 1 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">[단순 할인 쿠폰 다운로드]</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">정적인 쿠폰 목록 나열</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">할인율 체감 및 재미 요소 부족</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">신규 가입자 유인 효과 미비</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#64748b" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">쿠폰 받기</text>
+        </g>
+
+        <!-- Card 2 -->
+        <g transform="translate(355, 0)">
+          <rect width="325" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="325" height="44" rx="12" fill="#fef2f2" />
+          <rect y="28" width="325" height="16" fill="#fef2f2" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#991b1b">참여 인터랙션</text>
+          
+          <!-- Mock Graphic Box in Card 2 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">[버튼 클릭 1회로 종료]</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">재방문 동기부여 없음</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">이탈률 85% 이상 기록</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">유저 잔존 시간 15초 미만</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#64748b" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">확인</text>
+        </g>
+
+        <!-- Card 3 -->
+        <g transform="translate(710, 0)">
+          <rect width="330" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="330" height="44" rx="12" fill="#fef2f2" />
+          <rect y="28" width="330" height="16" fill="#fef2f2" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#991b1b">공유 기능 부재</text>
+          
+          <!-- Mock Graphic Box in Card 3 -->
+          <rect x="16" y="58" width="298" height="120" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="165" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">[바이럴 채널 미연동]</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">카카오톡/SNS 공유 링크 없음</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">지인 추천 이벤트 연계 실패</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">광고비 대비 유입 효율 저하</text>
+
+          <rect x="16" y="270" width="298" height="36" rx="8" fill="#dc2626" />
+          <text x="165" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">목록으로</text>
+        </g>
+      </g>
+
+      <!-- Bottom Floating Banner -->
+      <g transform="translate(50, 625)">
+        <rect width="1040" height="32" rx="6" fill="#f1f5f9" />
+        <text x="520" y="21" font-size="11" font-weight="700" fill="#64748b" text-anchor="middle">분석 결과: 100% 당첨 스크래치 복권 및 카카오톡 공유 루프 기획 착수</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio & AI Recruiter Agent",
+  "description": "An interactive, recruiter-focused portfolio featuring custom role tailoring, visual competency tracking, and an AI Career Assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

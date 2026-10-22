@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="100%" height="100%" style="background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;">
+  <defs>
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.15"/>
+    </filter>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#065f46" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+
+  <!-- Browser Window Wrapper -->
+  <g transform="translate(30, 25)">
+    <rect width="1140" height="710" rx="16" fill="#ffffff" filter="url(#card-shadow)" />
+    
+    <!-- Browser Top Bar -->
+    <rect width="1140" height="44" rx="16" fill="#f8fafc" />
+    <rect y="28" width="1140" height="16" fill="#f8fafc" />
+    <line x1="0" y1="44" x2="1140" y2="44" stroke="#e2e8f0" stroke-width="1" />
+    
+    <!-- Window Controls -->
+    <circle cx="24" cy="22" r="6" fill="#ef4444" />
+    <circle cx="44" cy="22" r="6" fill="#f59e0b" />
+    <circle cx="64" cy="22" r="6" fill="#10b981" />
+
+    <!-- URL Bar -->
+    <rect x="110" y="10" width="720" height="24" rx="6" fill="#ffffff" stroke="#cbd5e1" />
+    <text x="125" y="26" font-size="12" fill="#64748b">https://champ.hackers.com/lottery-event/final</text>
+
+    <!-- Stage Tag in Browser Bar -->
+    <rect x="860" y="8" width="260" height="28" rx="8" fill="#dcfce7" />
+    <text x="990" y="26" font-size="12" font-weight="800" fill="#166534" text-anchor="middle">3단계: Final (최종 완성 런칭)</text>
+
+    <!-- Page Content Container -->
+    <g transform="translate(0, 44)">
+      <!-- Top Site Navigation Header -->
+      <rect width="1140" height="52" fill="#ffffff" />
+      <line x1="0" y1="52" x2="1140" y2="52" stroke="#e2e8f0" stroke-width="1" />
+      
+      <!-- Logo -->
+      <text x="40" y="33" font-size="19" font-weight="900" fill="#dc2626" letter-spacing="-0.5">HACKERS<tspan fill="#1e293b" font-size="16" font-weight="700"> TALK</tspan></text>
+      
+      <!-- Nav Items -->
+      <text x="240" y="32" font-size="13" font-weight="600" fill="#475569">기초영어</text>
+      <text x="320" y="32" font-size="13" font-weight="600" fill="#475569">영어회화</text>
+      <text x="400" y="32" font-size="13" font-weight="600" fill="#475569">영문법</text>
+      <text x="470" y="32" font-size="13" font-weight="600" fill="#475569">비즈니스</text>
+      <text x="550" y="32" font-size="13" font-weight="800" fill="#dc2626">이벤트/환급</text>
+
+      <rect x="1010" y="12" width="90" height="28" rx="6" fill="#1e293b" />
+      <text x="1055" y="30" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">로그인</text>
+
+      <!-- Main Visual Hero Banner -->
+      <rect y="52" width="1140" height="220" fill="url(#bannerGrad)" />
+      
+      <!-- Subtle Pattern Grid in Hero for Plan, Glow for Final -->
+      
+      
+      <!-- Stage Notice Pill -->
+      <g transform="translate(50, 78)">
+        <rect width="170" height="28" rx="14" fill="#ffffff" fill-opacity="0.2" />
+        <text x="85" y="18" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle">2024 공식 런칭 완료</text>
+      </g>
+
+      <!-- Main Title -->
+      <text x="50" y="145" font-size="32" font-weight="900" fill="#ffffff" letter-spacing="-1">2023 꽝없는 복권 이벤트</text>
+      <text x="50" y="180" font-size="16" font-weight="500" fill="#ffffff" fill-opacity="0.9">게이미피케이션 기반 100% 당첨 인터랙티브 프로모션</text>
+
+      <!-- Hero Callout Box (Right Side) -->
+      <g transform="translate(740, 75)">
+        <rect width="350" height="170" rx="12" fill="#ffffff" filter="url(#card-shadow)" stroke="#e2e8f0" stroke-width="1" />
+        <text x="20" y="32" font-size="14" font-weight="800" fill="#1e293b">신규 런칭 적용 성과</text>
+        <line x1="20" y1="44" x2="330" y2="44" stroke="#e2e8f0" stroke-width="1" />
+        <text x="20" y="72" font-size="12" font-weight="600" fill="#334155">• 골드 코인 & 네온 테마의 화려한 게이미피케이션 완성</text>
+        <text x="20" y="98" font-size="12" font-weight="600" fill="#334155">• 일간 방문자 12,000명 돌파 & 일평균 복권 참여 25,000회</text>
+        <text x="20" y="124" font-size="12" font-weight="600" fill="#334155">• 카카오톡 공유를 통한 신규 수강생 유입 350% 성장</text>
+        <rect x="20" y="136" width="310" height="24" rx="4" fill="#dcfce7" />
+        <text x="175" y="152" font-size="11" font-weight="800" fill="#166534" text-anchor="middle">최종 성과: 이벤트 기간 DAU 240% 급상승</text>
+      </g>
+
+      <!-- Lower Content Area (3 Columns of Section Cards) -->
+      <g transform="translate(50, 290)">
+        <!-- Card 1 -->
+        <g transform="translate(0, 0)">
+          <rect width="325" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="325" height="44" rx="12" fill="#f0fdf4" />
+          <rect y="28" width="325" height="16" fill="#f0fdf4" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#166534">황금빛 100% 당첨 복권</text>
+          
+          <!-- Mock Graphic Box in Card 1 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#ecfdf5" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">🪙 [긁어보세요!] 당첨금 확인</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">아이패드 10세대 / 신세계 상품권</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">해커스 전강좌 50% 할인 쿠폰</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">참여자 100% 전원 경품 수령</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#10b981" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">지금 바로 긁기</text>
+        </g>
+
+        <!-- Card 2 -->
+        <g transform="translate(355, 0)">
+          <rect width="325" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="325" height="44" rx="12" fill="#f0fdf4" />
+          <rect y="28" width="325" height="16" fill="#f0fdf4" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#166534">실시간 당첨 현황 피드</text>
+          
+          <!-- Mock Graphic Box in Card 2 -->
+          <rect x="16" y="58" width="293" height="120" rx="8" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="162" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">🎉 방금 김*진님 에어팟 당첨!</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">투명하고 생생한 당첨자 티커</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">신뢰도 및 참여 심리 자극</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">총 당첨자 50,000명 돌파</text>
+
+          <rect x="16" y="270" width="293" height="36" rx="8" fill="#2563eb" />
+          <text x="162" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">당첨 내역 보러가기</text>
+        </g>
+
+        <!-- Card 3 -->
+        <g transform="translate(710, 0)">
+          <rect width="330" height="320" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"  />
+          <rect width="330" height="44" rx="12" fill="#f0fdf4" />
+          <rect y="28" width="330" height="16" fill="#f0fdf4" />
+          <text x="16" y="28" font-size="14" font-weight="800" fill="#166534">친구 공유하고 1회 더!</text>
+          
+          <!-- Mock Graphic Box in Card 3 -->
+          <rect x="16" y="58" width="298" height="120" rx="8" fill="#fef2f2" stroke="#cbd5e1" stroke-width="1"  />
+          <text x="165" y="115" font-size="13" font-weight="700" fill="#64748b" text-anchor="middle">💬 카카오톡 친구 초대 +1회</text>
+          
+          <text x="16" y="205" font-size="12" font-weight="700" fill="#1e293b">초대장 보내고 복권 추가 획득</text>
+          <text x="16" y="228" font-size="11" fill="#64748b">친구도 나도 당첨 확률 UP</text>
+          <text x="16" y="248" font-size="11" fill="#64748b">바이럴 공유 18,000건 달성</text>
+
+          <rect x="16" y="270" width="298" height="36" rx="8" fill="#dc2626" />
+          <text x="165" y="293" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">카톡 공유하고 복권받기</text>
+        </g>
+      </g>
+
+      <!-- Bottom Floating Banner -->
+      <g transform="translate(50, 625)">
+        <rect width="1040" height="32" rx="6" fill="#fef3c7" />
+        <text x="520" y="21" font-size="11" font-weight="700" fill="#92400e" text-anchor="middle">최종 런칭: 해커스톡 2023 최다 트래픽 이벤트 기록 갱신</text>
+      </g>
+    </g>
+  </g>
+</svg>

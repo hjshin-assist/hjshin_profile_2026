@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 2500" width="100%" height="100%" style="background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Pretendard', 'Malgun Gothic', 'Noto Sans KR', sans-serif;">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <!-- Top Header Block -->
+  <g transform="translate(0, 0)">
+    <!-- Logo & Brand Header -->
+    <g transform="translate(40, 35)">
+      <!-- Left Logo Icon -->
+      <path d="M 30 10 C 60 -10, 80 30, 60 65 C 40 90, 0 80, 5 45 Z" fill="#818cf8" opacity="0.85"/>
+      <path d="M 45 25 C 80 10, 95 50, 75 80 C 50 105, 15 90, 25 55 Z" fill="#4f46e5" opacity="0.75"/>
+      
+      <!-- Logo Text -->
+      <text x="110" y="42" font-size="34" font-weight="900" fill="#475569" letter-spacing="-0.5">YOUR</text>
+      <text x="110" y="80" font-size="42" font-weight="900" fill="#334155" letter-spacing="-1">aSSIST</text>
+      <text x="112" y="102" font-size="14" font-weight="700" fill="#64748b" letter-spacing="1">aSSIST HRD NEWSLETTER</text>
+    </g>
+
+    <!-- Main Subject Banner -->
+    <g transform="translate(40, 160)">
+      <rect x="0" y="0" width="600" height="75" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+      <text x="300" y="46" font-size="20" font-weight="800" fill="#0f172a" text-anchor="middle" letter-spacing="-0.5">[위기를 읽는 조직, 공급망 리스크 시대의 인재 전략]</text>
+    </g>
+
+    <!-- Header Metadata -->
+    <text x="40" y="260" font-size="12" font-weight="600" fill="#64748b">aSSIST HRD NEWSLETTER 009호</text>
+    <text x="640" y="260" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">2026.04.03</text>
+    <text x="640" y="280" font-size="11" font-weight="500" fill="#94a3b8" text-anchor="end">*009호 발간 예정일: 2026.05.21(목)</text>
+    <line x1="40" y1="295" x2="640" y2="295" stroke="#1e293b" stroke-width="2"/>
+  </g>
+
+  <!-- Section 1: a-Insight: HRD -->
+  <g transform="translate(40, 320)">
+    <text x="0" y="32" font-size="26" font-weight="900" fill="#0f172a">a-Insight: HRD</text>
+    <line x1="0" y1="50" x2="600" y2="50" stroke="#000000" stroke-width="1.5"/>
+
+    <text x="0" y="85" font-size="17" font-weight="800" fill="#0f172a">공급망이 흔들릴 때, 기업은 어떤 인재가 필요한가</text>
+
+    <text x="0" y="125" font-size="14" fill="#334155" line-height="1.7">
+      <tspan x="0" dy="0">공급망 위기는 예고 없이 찾아옵니다. 하지만 위기 앞에서 흔들리는 조직과</tspan>
+      <tspan x="0" dy="24">버티는 조직의 차이는 단 하나, <tspan font-weight="800">사람</tspan>입니다.</tspan>
+      <tspan x="0" dy="24">호르무즈 해협 봉쇄로 전 세계 공급망이 흔들리는 지금,</tspan>
+      <tspan x="0" dy="24">기업이 진짜 필요로 하는 인재는 어떤 역량을 갖춰야 할까요?</tspan>
+      <tspan x="0" dy="24">준비된 조직에게 위기는 기회입니다.</tspan>
+      <tspan x="0" dy="24">지금이 바로 공급망 인재 역량을 점검할 적기입니다.</tspan>
+    </text>
+
+    <text x="0" y="295" font-size="14" font-weight="800" fill="#0f172a">본문 읽기 →</text>
+    <line x1="0" y1="320" x2="600" y2="320" stroke="#cbd5e1" stroke-width="1"/>
+  </g>
+
+  <!-- Section 2: aSSIST 온에어 -->
+  <g transform="translate(40, 665)">
+    <!-- Left Illustration Box -->
+    <g transform="translate(0, 0)">
+      <rect width="210" height="135" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+      <rect x="15" y="12" width="70" height="22" rx="4" fill="#ef4444"/>
+      <text x="50" y="27" font-size="10" font-weight="900" fill="#ffffff" text-anchor="middle">ON AIR</text>
+
+      <rect x="92" y="12" width="102" height="22" rx="4" fill="#dbeafe"/>
+      <text x="143" y="27" font-size="10" font-weight="800" fill="#1e40af" text-anchor="middle">aSSIST 기업교육 현장</text>
+
+      <!-- People icons & whiteboard mockup -->
+      <rect x="25" y="45" width="160" height="70" rx="4" fill="#ffffff" stroke="#93c5fd"/>
+      <circle cx="65" cy="70" r="12" fill="#3b82f6"/>
+      <circle cx="105" cy="70" r="12" fill="#60a5fa"/>
+      <circle cx="145" cy="70" r="12" fill="#93c5fd"/>
+      <rect x="50" y="90" width="100" height="15" rx="3" fill="#cbd5e1"/>
+    </g>
+
+    <!-- Right Content -->
+    <g transform="translate(230, 0)">
+      <text x="0" y="26" font-size="24" font-weight="900" fill="#0f172a">aSSIST 온에어</text>
+      <text x="0" y="58" font-size="15" font-weight="800" fill="#1e293b">현장에서 다시 발견한 <tspan font-weight="900">"공급망 전문가"</tspan>의 경쟁력</text>
+      <text x="0" y="88" font-size="13" fill="#475569">경험만으로는 부족하다!</text>
+      <text x="0" y="106" font-size="13" fill="#475569">CPSM에서 시작되는 체계적인 공급망 전문가 양성</text>
+      <text x="0" y="136" font-size="12" font-weight="700" fill="#1e293b">*-4/30(목)까지 얼리버드 이벤트 진행!</text>
+      <text x="0" y="166" font-size="14" font-weight="800" fill="#0f172a">본문 읽기 →</text>
+    </g>
+    <line x1="0" y1="190" x2="600" y2="190" stroke="#cbd5e1" stroke-width="1"/>
+  </g>
+
+  <!-- Section 3: MBS: 함께 읽는 경영 -->
+  <g transform="translate(40, 880)">
+    <text x="0" y="22" font-size="17" font-weight="900" fill="#0f172a">MBS: 함께 읽는 경영</text>
+    <text x="230" y="22" font-size="13" fill="#334155">[경영자 독서모임 MBS 62기 4회차 '복잡성의 고리를 끊어라' 기사 보기]</text>
+    <text x="230" y="52" font-size="14" font-weight="800" fill="#0f172a">본문 읽기 →</text>
+    <line x1="0" y1="75" x2="600" y2="75" stroke="#cbd5e1" stroke-width="1"/>
+  </g>
+
+  <!-- Section 4: aSSIST 윤리의 창 -->
+  <g transform="translate(40, 980)">
+    <text x="0" y="22" font-size="17" font-weight="900" fill="#0f172a">aSSIST 윤리의 창</text>
+    <text x="230" y="22" font-size="13" fill="#334155">- 제목: 글로벌 공급망에서의 지속가능성 경영 : Patagonia 사례</text>
+    <text x="230" y="44" font-size="13" fill="#334155">- 작성자: 민용택 aSSIST 교수</text>
+    <text x="230" y="74" font-size="14" font-weight="800" fill="#0f172a">본문 읽기 →</text>
+    <line x1="0" y1="95" x2="600" y2="95" stroke="#cbd5e1" stroke-width="1"/>
+  </g>
+
+  <!-- Section 5: aSSIST Monthly Pick -->
+  <g transform="translate(40, 1100)">
+    <!-- Header -->
+    <text x="300" y="40" font-size="32" font-weight="900" fill="#3b82f6" text-anchor="middle" letter-spacing="-0.5">aSSIST Monthly Pick</text>
+
+    <!-- Hero Character Illustration -->
+    <g transform="translate(160, 70)">
+      <rect width="280" height="150" fill="none"/>
+      <!-- Speech Bubbles -->
+      <rect x="60" y="10" width="70" height="24" rx="12" fill="#dbeafe"/>
+      <text x="95" y="26" font-size="11" font-weight="800" fill="#2563eb" text-anchor="middle">aSSIST</text>
+      <circle cx="210" cy="30" r="18" fill="#fef08a"/>
+      <!-- Lightbulb icon -->
+      <path d="M 210 20 C 203 20 198 25 198 31 C 198 35 201 38 203 40 L 217 40 C 219 38 222 35 222 31 C 222 25 217 20 210 20 Z" fill="#eab308"/>
+      <!-- Businessman character -->
+      <circle cx="120" cy="65" r="16" fill="#fde047"/>
+      <rect x="100" y="85" width="40" height="60" rx="8" fill="#1d4ed8"/>
+    </g>
+
+    <!-- Item 1: CPSM:ON 글로벌 구매 세미나 -->
+    <g transform="translate(0, 240)">
+      <rect x="0" y="0" width="18" height="18" rx="3" fill="#3b82f6"/>
+      <path d="M 4 9 L 7 12 L 14 5" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+      <text x="26" y="15" font-size="16" font-weight="900" fill="#1d4ed8">CPSM:ON 글로벌 구매 세미나</text>
+
+      <text x="0" y="42" font-size="14" font-weight="700" fill="#0f172a">불확실한 시대, 구매의 전략적 스위치를 켤 시간입니다.</text>
+
+      <text x="0" y="75" font-size="13" fill="#334155">
+        <tspan x="0" dy="0">공급망 긴장, 지정학적 리스크 등 예측 불가능한 환경 속에서</tspan>
+        <tspan x="0" dy="20">현업 전문가의 인사이트를 통해 <tspan font-weight="800">'구매의 해법'</tspan>을 제시합니다.</tspan>
+        <tspan x="0" dy="20">글로벌 공급망 대응 전략과 실무 인사이트를 한 번에 확인하세요!</tspan>
+      </text>
+
+      <text x="0" y="155" font-size="13" fill="#334155">- 과정기간: <tspan font-weight="800">26.04.15 (수)</tspan></text>
+      <text x="0" y="177" font-size="13" fill="#334155">- 과정일시: 19:00 ~ 21:00</text>
+      <text x="0" y="199" font-size="13" fill="#334155">- 장소: 핀란드 타워 2층 알바알토룸 (온/오프라인 병행)</text>
+
+      <text x="0" y="235" font-size="14" font-weight="900" fill="#0f172a">과정 신청하기→</text>
+    </g>
+
+    <!-- Item 2: KOTRA - aSSIST 글로벌 비즈니스 -->
+    <g transform="translate(0, 500)">
+      <rect x="0" y="0" width="18" height="18" rx="3" fill="#3b82f6"/>
+      <path d="M 4 9 L 7 12 L 14 5" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+      <text x="26" y="15" font-size="16" font-weight="900" fill="#1d4ed8">KOTRA - aSSIST 글로벌 비즈니스 : 수출 첫 걸음</text>
+
+      <text x="0" y="42" font-size="13" fill="#334155">
+        <tspan x="0" dy="0">수출 준비 등에 대한 기초 실무 정보 전달을 통한 수출 이해도 제고 및</tspan>
+        <tspan x="0" dy="20">해외 수출 시장 경제 및 산업 동향 이해</tspan>
+      </text>
+
+      <text x="0" y="100" font-size="13" fill="#334155">- 과정기간: 5월 20일 (수)</text>
+      <text x="0" y="122" font-size="13" fill="#334155">- 과정일시: 10:00 ~ 17:00</text>
+      <text x="0" y="144" font-size="13" fill="#334155">- 장소: KOTRA IKP (서초구 헌릉로 7)</text>
+      <text x="0" y="166" font-size="13" fill="#334155">- 금액: 150,000원 (교재 및 간편식 제공, 교육 당일 환불 불가)</text>
+
+      <text x="0" y="202" font-size="14" font-weight="900" fill="#0f172a">과정 자세히 보기→</text>
+    </g>
+  </g>
+
+  <!-- Footer & Action Banners -->
+  <g transform="translate(40, 1840)">
+    <!-- Feedback Pill -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="600" height="42" rx="21" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+      <text x="300" y="26" font-size="14" font-weight="800" fill="#0f172a" text-anchor="middle">한줄 피드백 남기기</text>
+    </g>
+
+    <!-- Download Pill -->
+    <g transform="translate(0, 52)">
+      <rect x="0" y="0" width="600" height="42" rx="21" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+      <text x="300" y="26" font-size="14" font-weight="800" fill="#0f172a" text-anchor="middle">aSSIST 교육 소개자료 다운로드</text>
+    </g>
+
+    <!-- Contact details -->
+    <g transform="translate(0, 120)">
+      <text x="300" y="18" font-size="13" font-weight="700" fill="#475569" text-anchor="middle">aSSIST 산학협력본부</text>
+      <text x="300" y="38" font-size="13" fill="#64748b" text-anchor="middle">b2bedu@assist.ac.kr</text>
+      <text x="300" y="58" font-size="13" fill="#64748b" text-anchor="middle">02-360-0718</text>
+      <text x="300" y="85" font-size="11" fill="#94a3b8" text-anchor="middle">수신을 원치 않으시면 아래를 눌러주세요.</text>
+      <text x="300" y="102" font-size="11" fill="#64748b" text-anchor="middle" text-decoration="underline">수신거부 Unsubscribe</text>
+    </g>
+
+    <!-- Banners -->
+    <!-- Banner 1: Alumni Executive -->
+    <g transform="translate(0, 240)">
+      <rect width="600" height="100" rx="4" fill="#0f2942"/>
+      <text x="560" y="32" font-size="18" font-weight="900" fill="#e2e8f0" text-anchor="end">Alumni Executive</text>
+      <text x="560" y="52" font-size="18" font-weight="900" fill="#e2e8f0" text-anchor="end">Learning Invitation</text>
+      <text x="30" y="72" font-size="18" font-weight="900" fill="#ffffff">졸업 이후에도 이어지는 동문 대상 기업교육</text>
+      <rect x="490" y="65" width="80" height="24" rx="4" fill="#eab308"/>
+      <text x="530" y="81" font-size="12" font-weight="900" fill="#000000" text-anchor="middle">클릭!</text>
+    </g>
+
+    <!-- Banner 2: MBS 62 -->
+    <g transform="translate(0, 355)">
+      <rect width="600" height="100" rx="4" fill="#181310"/>
+      <text x="40" y="75" font-size="64" font-weight="900" fill="#d97706" letter-spacing="-2">62</text>
+      <text x="560" y="42" font-size="14" fill="#d1d5db" text-anchor="end">Management Book Society</text>
+      <text x="560" y="66" font-size="20" font-weight="900" fill="#ffffff" text-anchor="end">경영자 독서모임 MBS 62기</text>
+      <rect x="490" y="72" width="80" height="20" rx="4" fill="#d97706"/>
+      <text x="530" y="86" font-size="11" font-weight="900" fill="#ffffff" text-anchor="middle">클릭!</text>
+    </g>
+
+    <!-- Banner 3: Earlybird Coupon -->
+    <g transform="translate(0, 470)">
+      <rect width="600" height="100" rx="4" fill="#1e1b4b"/>
+      <rect x="15" y="15" width="230" height="28" rx="4" fill="#312e81"/>
+      <text x="130" y="34" font-size="16" font-weight="900" fill="#e0e7ff" text-anchor="middle">얼리버드 EVENT</text>
+      <text x="20" y="65" font-size="13" font-weight="700" fill="#ffffff">4/30(목)까지 지원서만 작성해도</text>
+      <text x="20" y="84" font-size="13" font-weight="700" fill="#ffffff">자격증 배송비 $150를 지원해드립니다!!</text>
+      
+      <rect x="380" y="20" width="190" height="60" rx="6" fill="#f59e0b"/>
+      <text x="475" y="42" font-size="12" font-weight="900" fill="#78350f" text-anchor="middle">COUPON</text>
+      <text x="475" y="68" font-size="26" font-weight="900" fill="#451a03" text-anchor="middle">$150</text>
+    </g>
+
+    <!-- Banner 4: Finland MBA -->
+    <g transform="translate(0, 585)">
+      <rect width="600" height="130" rx="4" fill="#311042"/>
+      <text x="300" y="38" font-size="28" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="-0.5">알토대/헬싱키경영대</text>
+      <text x="300" y="68" font-size="16" font-weight="700" fill="#f3e8ff" text-anchor="middle">국내 직장인 5,127명이 졸업한 전 세계 1% MBA</text>
+      <rect x="80" y="82" width="440" height="36" rx="4" fill="#fef08a"/>
+      <text x="300" y="100" font-size="14" font-weight="800" fill="#000000" text-anchor="middle">2026년 가을학기 신입생 모집중</text>
+      <text x="300" y="113" font-size="12" font-weight="800" fill="#78350f" text-anchor="middle">* Early Bird 전형 접수: ~4월 28일(화)까지 *</text>
+    </g>
+  </g>
+</svg>
